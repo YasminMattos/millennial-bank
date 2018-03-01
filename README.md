@@ -1,6 +1,5 @@
 # Millennial Bank
 -----------
-## **Skateholders del proyecto**
 
 ### Público objetivo:
 
@@ -22,6 +21,7 @@ La siguiente infografía nos da más alcances sobre su comportamiento...
 
 ![](assets/images/info.jpg)
 
+## **Skateholders del proyecto**
 
 ### Grupo de interés:
 
