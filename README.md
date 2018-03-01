@@ -86,16 +86,17 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 Son los puntos a tratar dentro de la agenda.
 
-1.	Objetivo y alcances del proyecto:
+1.	Objetivo y alcances del proyecto
 
-2.	Beneficios del proyecto:
+2.	Beneficios del proyecto
 
-3.	Hitos del proyecto: 
+3.	Hitos del proyecto
 
     Calendarización de entregables.
+
 4.	Identificación de riesgos
 
-5.	Entrega del acta de compromiso:
+5.	Entrega del acta de compromiso
 
     Confirmar roles y responsabilidades de los participantes.
 
