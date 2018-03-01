@@ -82,7 +82,7 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 14.	 ¿Podríamos dar descripciones de las personas usando el producto? (General).
 
-## **Plan de presentación para el kick-off**
+## **Plan de presentación para el KICK-OFF**
 
 Son los puntos a tratar dentro de la agenda.
 
