@@ -5,6 +5,23 @@
 ### Público objetivo:
 
 •	Millenials.
+    
+#### ¿Cuál es su perfil? ####
+
+Personas de 18 a 34 años.
+
+- Financieramente suelen gastar mucho, ya que están enfocados en su bienestar y no tienen arraigada la cultura del ahorro.
+
+- Se endeudan fácilmente y para ellos es complicado conseguir dinero para cuotas iniciales.
+
+- Son consumidores exigentes a la hora de elegir un producto y clientes demandantes al momento de evaluar un servicio.
+
+- Más de la mitad de millennials no tienen nada ahorrado. (Encuesta de Go Banking Rates - 2017)
+
+La siguiente infografía nos da más alcances sobre su comportamiento...
+
+![](assets/images/info.jpg)
+
 
 ### Grupo de interés:
 
