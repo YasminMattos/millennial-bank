@@ -35,7 +35,7 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 ***Duración estimada:*** 30 min a 1 hra máximo.
 
-### **Preguntas de enfoque:**
+### **Focus questions:**
 
 1.	¿Qué actividades realizarán los usuarios con el producto que son importantes para el éxito del negocio?
 2.	¿Cuál es el principal problema del negocio que se espera resolver con el producto?
@@ -56,11 +56,17 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 ## **Plan de presentación**
 
 1.	Objetivo y alcances del proyecto:
+
 2.	Beneficios del proyecto:
+
 3.	Hitos del proyecto: 
+
     Calendarización de entregables.
 4.	Identificación de riesgos
-5.	Entrega del acta de compromiso
+
+5.	Entrega del acta de compromiso:
+
 Confirmar roles y responsabilidades de los participantes.
+
 6.	Agendar reuniones de seguimiento.
 
