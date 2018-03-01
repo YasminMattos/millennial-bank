@@ -31,7 +31,7 @@ La siguiente infografía nos da más alcances sobre su comportamiento...
 
 •	_Product Manager:_ Identifica oportunidades, tendencias, problemas, segmentos nuevos en el mercado, con el objetivo de desarrollar y proporcionar un producto de éxito y rentable para el banco.
 
-•	_Project manager:_ Facilitador en el proceso de desarrollo del producto.
+•	_Project Manager:_ Facilitador en el proceso de desarrollo del producto.
 
 •	Community Manager: Desarrolla la comunidad online de la marca y es responsable de detectar a los potenciales clientes.
 
@@ -54,23 +54,37 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 ### **Focus questions:**
 
-1.	¿Qué actividades realizarán los usuarios con el producto que son importantes para el éxito del negocio?
-2.	¿Cuál es el principal problema del negocio que se espera resolver con el producto?
-3.	¿Cuál es tú visión del producto?
-4.	¿Qué es lo que se espera lograr en la primera versión del producto?
-5.	¿Cuándo se prevé que sea el lanzamiento del producto?
-6.	¿Qué necesitamos que ocurra para que nuestro producto sea considerado un éxito?
-7.	¿Cómo sabremos cuándo ya sea un éxito?
-8.	¿Cómo el producto proveerá valor / ganancias a la organización?
-9.	¿Cuáles son los objetivos a corto y mediano plazo del producto?
-10.	 ¿Qué les preocupa acerca del producto?
-11.	 ¿Cuál es nuestro público objetivo? (enfoque de necesidades del target)
-12.	 ¿Con qué frecuencia el usuario promedio utiliza nuestro producto? (diariamente, semanalmente, etc).
-13.	 ¿El público utiliza otros productos para llegar a las mismas metas? Si es así, ¿cuáles son?
-14.	 Si fueras a categorizar a los usuarios, ¿qué etiquetas usarías?
-15.	 ¿Podríamos dar descripciones de las personas usando el producto?
+1.	¿Qué actividades realizarán los usuarios con el producto que son importantes para el éxito del negocio? (Product Manager)
 
-## **Plan de presentación**
+2.	¿Cuál es el principal problema del negocio que se espera resolver con el producto? (Product Manager, Gerente de riesgos)
+
+3.	¿Cuál es tú visión del producto? (CEO, Product Owner)
+
+4.	¿Qué es lo que se espera lograr en la primera versión del producto? (Project Manager, Product Manager)
+
+5.	¿Cuándo se prevé que sea el lanzamiento del producto? (Project Manager, Product Manager)
+
+6.	¿Qué necesitamos que ocurra para que nuestro producto sea considerado un éxito? (Gerente de marketing, Jefe de innovación)
+
+7.	¿Cómo sabremos cuándo ya sea un éxito? (Product Manager, Community Manager, Gerente de marketing)
+
+8.	¿Cómo el producto proveerá valor / ganancias a la organización? (Product Owner, Product Manager)
+
+9.	¿Cuáles son los objetivos a corto y mediano plazo del producto? (Project Manager, Product Manager)
+
+10.	 ¿Qué les preocupa acerca del producto? (CEO, Product Owner, Product Manager)
+
+11.	 ¿Con qué frecuencia el usuario promedio utiliza nuestro producto (diariamente, semanalmente, etc)? (Product Manager, Community Manager)
+
+12.	 ¿El público utiliza otros productos para llegar a las mismas metas? Si es así, ¿cuáles son? (Community Manager, Gerente de Riesgos)
+
+13.	 Si fueras a categorizar a los usuarios, ¿qué etiquetas usarías? (Product manager, Community Manager)
+
+14.	 ¿Podríamos dar descripciones de las personas usando el producto? (General).
+
+## **Plan de presentación para el kick-off**
+
+Son los puntos a tratar dentro de la agenda.
 
 1.	Objetivo y alcances del proyecto:
 
@@ -83,7 +97,7 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 5.	Entrega del acta de compromiso:
 
-Confirmar roles y responsabilidades de los participantes.
+    Confirmar roles y responsabilidades de los participantes.
 
 6.	Agendar reuniones de seguimiento.
 
