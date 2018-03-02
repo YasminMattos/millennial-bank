@@ -127,3 +127,5 @@ Son los puntos a tratar dentro de la agenda.
 
 6.	Agendar reuniones de seguimiento.
 
+## **Business Model Canvas**
+![](assets/images/canvas.png)
