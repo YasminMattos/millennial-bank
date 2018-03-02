@@ -107,6 +107,8 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 14.	 ¿Podríamos dar descripciones de las personas usando el producto? (General).
 
+
+
 ## **Plan de presentación para el KICK-OFF**
 
 Son los puntos a tratar dentro de la agenda.
@@ -129,3 +131,10 @@ Son los puntos a tratar dentro de la agenda.
 
 ## **Business Model Canvas**
 ![](assets/images/canvas.png)
+
+## **Propuesta de investigación**
+
+### **Objetivos de investigación**
+1. Conocer los gustos y preferencias de los millennials respecto a la banca tradicional y su comportamiento en el medio digital.
+
+### **Técnicas a emplear**
