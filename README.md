@@ -148,3 +148,7 @@ Son los puntos a tratar dentro de la agenda.
 - Se realizará la interacción con las diferentes apps financieras para realizar benchmarking.
 5. Data Analytics
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
+
+## **Equipo de trabajo**
+- [Ada Yajahuanca](https://github.com/adayc) 
+- [Yasmin Mattos](https://github.com/YasminMattos)
