@@ -1,11 +1,21 @@
 # Millennial Bank
------------
+-------------------
+## Idea de Negocio:
 
-### Público objetivo:
+### Banca 100% digital.
+- Manejar diferentes productos financieros  de diferentes entidades en un solo portal.
+-  Capacidad de realizar transferencias interbancarias con rapidez entre entidades asociadas al app.
+- Transparencia y autencticidad sobre su cuenta
+corriente, cuáles son sus gastos, cuáles son los costos de sus productos,
+qué productos poseen actualmente y por cuánto tiempo. 
+- Constante comunicación respecto a fechas y obligaciones de pago.
+
+
+## Público objetivo:
 
 •	Millenials.
     
-#### ¿Cuál es su perfil? ####
+### ¿Cuál es su perfil? ####
 
 Personas de 18 a 34 años.
 
@@ -20,6 +30,21 @@ Personas de 18 a 34 años.
 La siguiente infografía nos da más alcances sobre su comportamiento...
 
 ![](assets/images/info.jpg)
+
+### ¿Qué piensan los millennials de los bancos? ####
+
+- El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. (https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)
+
+- El 53% de los encuestados no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.(https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)  
+
+- 71% Prefiere ir al dentista que ir a su banco.
+- 33% Cree que no necesitan un banco.
+-  73% Estaría interesado en una oferta bancaria
+de Google o Amazon.
+- 23% Cita que la falta de un app móvil es razón suficiente para no interactuar con un banco. 
+
+Fuente (http://www.fisagrp.com/pdf/fisa-millenial-report.pdf)
+
 
 ## **Skateholders del proyecto**
 
