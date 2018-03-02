@@ -5,7 +5,7 @@
 ### Banca 100% digital.
 - Manejar diferentes productos financieros  de diferentes entidades en un solo portal.
 -  Capacidad de realizar transferencias interbancarias con rapidez entre entidades asociadas al app.
-- Transparencia y autencticidad sobre su cuenta
+- Transparencia y autenticidad sobre su cuenta
 corriente, cuáles son sus gastos, cuáles son los costos de sus productos,
 qué productos poseen actualmente y por cuánto tiempo. 
 - Constante comunicación respecto a fechas y obligaciones de pago.
@@ -33,7 +33,7 @@ La siguiente infografía nos da más alcances sobre su comportamiento...
 
 ### ¿Qué piensan los millennials de los bancos? ####
 
-- El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. (https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)
+- El 40% de los millennials nunca ha pisado una sucursal bancaria y  la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. (https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)
 
 - El 53% de los encuestados no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.(https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)  
 
@@ -138,7 +138,13 @@ Son los puntos a tratar dentro de la agenda.
 1. Conocer los gustos y preferencias de los millennials respecto a la banca tradicional y su comportamiento en el medio digital.
 
 ### **Técnicas a emplear**
-1. Entrevistas.
+1. Entrevistas con expertos.
+- Se entrevistará a los principales stakeholders involucrados en el kick off.
 2. Encuestas presenciales y online.
+- Se realizaran encuestas presenciales y online a los usuarios y potenciales usuarios que conformen nuestro target para conocer de primera mano la experiencia que poseen.
 3. Observación contextual.
+- Se visitará agencias de entidades bancarias para recolectar información acerca de la experiencia con la interacción de los productos financieros.
 4. Observación participativa.
+- Se realizará la interacción con las diferentes apps financieras para realizar benchmarking.
+5. Data Analytics
+- Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
