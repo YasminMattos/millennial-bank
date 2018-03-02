@@ -150,7 +150,8 @@ Son los puntos a tratar dentro de la agenda.
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
 
 ### **Trello de organización **
-![https://trello.com/b/mt8tCKZQ/millenial-bank](assets/images/trello.png)
+![](assets/images/trello.png)
+https://trello.com/b/mt8tCKZQ/millenial-bank
 
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
