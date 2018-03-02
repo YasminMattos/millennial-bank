@@ -138,3 +138,7 @@ Son los puntos a tratar dentro de la agenda.
 1. Conocer los gustos y preferencias de los millennials respecto a la banca tradicional y su comportamiento en el medio digital.
 
 ### **Técnicas a emplear**
+1. Entrevistas.
+2. Encuestas presenciales y online.
+3. Observación contextual.
+4. Observación participativa.
