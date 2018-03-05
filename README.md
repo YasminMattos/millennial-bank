@@ -196,14 +196,14 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 
 #### **Scotiabank**
 ##### **Opiniones de los usuarios**
-![](assets/images/scotia1.png)
-![](assets/images/scotia2.png)
+![Scotiabank](assets/images/scotia1.png)
+![Scotiabank](assets/images/scotia2.png)
 
 ##### **Sobre su app/web**
-![](assets/images/scotia3.png)
+![Scotiabank](assets/images/scotia3.png)
 #### **Mibanco**
 ##### **Opiniones de los usuarios**
-![](assets/images/mibanco1.png)
+![Mibanco](assets/images/mibanco1.png)
 
 
 ### **Encuestas presenciales y online**
