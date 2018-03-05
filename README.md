@@ -1,5 +1,10 @@
 # Millennial Bank
 -------------------
+## Tabla de contenido
+- [Idea de Negocio](#idea-de-negocio)
+- [Público objetivo](#publico-objetivo)
+- [Business Model Canvas](#business-model-canvas)
+
 ## Idea de Negocio:
 
 ### Banca 100% digital.
@@ -158,7 +163,3 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 - [Yasmin Mattos](https://github.com/YasminMattos)
 
 
-## Table of contents
-
-
-- [Business Model Canvas](#business-model-canvas)
