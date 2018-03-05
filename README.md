@@ -5,7 +5,9 @@
 - [Público objetivo](#público-objetivo)
 - [Business Model Canvas](#business-model-canvas)
 - [Stakeholders del proyecto](#stakeholders-del-proyecto)
-- [Pautas para el KICK-OFF MEETING](#pautas para-el-KICK-OFF-MEETING)
+
+- [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
+
 ## Idea de Negocio:
 
 ### Banca 100% digital.
@@ -74,7 +76,7 @@ Fuente (http://www.fisagrp.com/pdf/fisa-millenial-report.pdf)
 
 •	_Visual designers y Front-end developers:_ Involucrados en el desarrollo del producto en todas sus etapas. 
 
-## **Pautas para el KICK-OFF MEETING**
+## **Pautas para el KICK OFF MEETING**
 
 __Invitados:__ La parte involucrada (skateholders).
 
@@ -115,7 +117,7 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 
 
-## **Plan de presentación para el KICK-OFF**
+### **Plan de presentación para el KICK-OFF**
 
 Son los puntos a tratar dentro de la agenda.
 
@@ -155,7 +157,7 @@ Son los puntos a tratar dentro de la agenda.
 5. Data Analytics
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
 
-### **Trello de organización **
+## **Trello de organización **
 ![](assets/images/trello.png)
 https://trello.com/b/mt8tCKZQ/millenial-bank
 
