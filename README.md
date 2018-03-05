@@ -158,7 +158,7 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 - [Yasmin Mattos](https://github.com/YasminMattos)
 
 
-### Table of contents
+## Table of contents
 
 
-- [Business Model Canvas](#Business-Model-Canvas).
+- [Business Model Canvas](#business-model-canvas)
