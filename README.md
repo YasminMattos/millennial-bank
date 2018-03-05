@@ -3,10 +3,14 @@
 ## Tabla de contenido
 - [Idea de Negocio](#idea-de-negocio)
 - [Público objetivo](#público-objetivo)
-- [Business Model Canvas](#business-model-canvas)
+
 - [Stakeholders del proyecto](#stakeholders-del-proyecto)
 
 - [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
+
+- [Business Model Canvas](#business-model-canvas)
+
+- [Propuesta de investigación](#propuesta-de-investigación)
 
 ## Idea de Negocio:
 
