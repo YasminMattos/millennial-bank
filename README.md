@@ -179,8 +179,32 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 ## **Descubrimiento e investigación**
 
 ### **Benchmark con las apps sugeridas (Nequi, Nubank, Simple)**
+![](assets/images/bench-tres.png)
 
 ### **Data Analytics**
+#### **Banco de Crédito del Perú - BCP**
+##### **Opiniones de los usuarios**
+##### **Sobre su app/web**
+
+#### **Banco Continental - BBVA**
+##### **Opiniones de los usuarios**
+##### **Sobre su app/web**
+
+#### **Interbank**
+##### **Opiniones de los usuarios**
+##### **Sobre su app/web**
+
+#### **Scotiabank**
+##### **Opiniones de los usuarios**
+![](assets/images/scotia1.png)
+![](assets/images/scotia2.png)
+
+##### **Sobre su app/web**
+![](assets/images/scotia3.png)
+#### **Mibanco**
+##### **Opiniones de los usuarios**
+![](assets/images/mibanco1.png)
+
 
 ### **Encuestas presenciales y online**
 
