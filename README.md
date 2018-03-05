@@ -8,7 +8,7 @@
 
 - [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
 
-- [Plan de presentación para el KICK-OFF](#plan-de-presentación-para-el-KICK-OFF)
+- [Plan de presentación para el KICK-OFF](#plan)
 
 - [Business Model Canvas](#business-model-canvas)
 
@@ -125,6 +125,7 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 14.	 ¿Podríamos dar descripciones de las personas usando el producto? (General).
 
 ### **Plan de presentación para el KICK-OFF**
+{#plan}
 
 Son los puntos a tratar dentro de la agenda.
 
