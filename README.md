@@ -2,7 +2,7 @@
 -------------------
 ## Tabla de contenido
 - [Idea de Negocio](#idea-de-negocio)
-- [Público objetivo](#publico-objetivo)
+- [Público objetivo](#público-objetivo)
 - [Business Model Canvas](#business-model-canvas)
 
 ## Idea de Negocio:
