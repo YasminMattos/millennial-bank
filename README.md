@@ -12,6 +12,9 @@
 
 - [Propuesta de investigación](#propuesta-de-investigación)
 
+- [Trello de organización](#trello-de-organización)
+- [Equipo de trabajo](#equipo-de-trabajo)
+
 ## Idea de Negocio:
 
 ### Banca 100% digital.
