@@ -183,7 +183,7 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 
 Funciones con las que cuenta:
 
-• Consulta de saldos y movimientos de las cuentas y tarjetas de crédito del BCP
+• Consulta de saldos y movimientos de las cuentas y tarjetas de crédito
 
 • Transferencias entre cuentas y cuentas de terceros del BCP
 
@@ -223,15 +223,15 @@ Funciones con las que cuenta:
 
 #### **Interbank APP**
 
--	Personalizar tus cuentas y configurar tus operaciones frecuentes
+-	Personalizar cuentas y configurar operaciones frecuentes
 
--	Descargar el Estado de Cuenta de tus tarjetas de crédito
+-	Descargar el Estado de Cuenta de tarjetas de crédito
 
 -	Recargar celulares Movistar, Claro y Entel
 
--	Recibir constancias automáticas de tus operaciones
+-	Recibir constancias automáticas de operaciones
 
--	Encontrar “Preguntas frecuentes” que te ayudarán a usar la aplicación de la mejor manera
+-	Sección de “Preguntas frecuentes” 
 
 ##### **Comentarios**
 
