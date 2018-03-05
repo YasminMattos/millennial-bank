@@ -227,7 +227,29 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 ### **Observación participativa** 
 - Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
 
+## **Síntesis y definición**
+### **Affinity Mapping** YAS
+- Para encontrar los principales procesos que se realizan y los principales motivos de insatisfaccion de la banca tradicional
 
+#### **Temas encontrados**
+- a
+- b
+- c
+
+### **User persona** 
+
+#### **User persona primary** ADA
+#### **User persona secondary** YAS
+
+### **CUSTOMER JOURNEY MAP - PROCESOS CRITICOS** YAS
+- A
+- B
+- C
+
+### **Problem Statements** YAS
+
+## **Ideación** 
+### **Feature list** ADA
 
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
