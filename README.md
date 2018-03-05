@@ -8,6 +8,8 @@
 
 - [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
 
+- [Plan de presentación para el KICK-OFF](#plan-de-presentación-para-el-KICK-OFF)
+
 - [Business Model Canvas](#business-model-canvas)
 
 - [Propuesta de investigación](#propuesta-de-investigación)
@@ -122,8 +124,6 @@ En caso de haber dos grupos con ideas distintas hacer un grupal meeting.
 
 14.	 ¿Podríamos dar descripciones de las personas usando el producto? (General).
 
-
-
 ### **Plan de presentación para el KICK-OFF**
 
 Son los puntos a tratar dentro de la agenda.
@@ -169,9 +169,6 @@ Son los puntos a tratar dentro de la agenda.
 5. Observación participativa.
 - Se realizará la interacción con las diferentes apps financieras para realizar benchmarking.
 
-
-
-
 ## **Trello de organización**
 ![](assets/images/trello.png)
 https://trello.com/b/mt8tCKZQ/millenial-bank
@@ -182,17 +179,67 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 ![](assets/images/bench-tres.png)
 
 ### **Data Analytics**
-#### **Banco de Crédito del Perú - BCP** YAS
-##### **Opiniones de los usuarios**
-##### **Sobre su app/web**
+#### **Banca Móvil BCP**
 
-#### **Banco Continental - BBVA** YAS
-##### **Opiniones de los usuarios**
-##### **Sobre su app/web**
+Funciones con las que cuenta:
 
-#### **Interbank** YAS
-##### **Opiniones de los usuarios**
-##### **Sobre su app/web**
+• Consulta de saldos y movimientos de las cuentas y tarjetas de crédito del BCP
+
+• Transferencias entre cuentas y cuentas de terceros del BCP
+
+• Pagar las tarjetas de crédito y de terceros del BCP
+
+• Recargar celulares Movistar
+
+• Disponer de efectivo de las tarjetas de crédito del BCP
+
+• Localizar canales de atención
+
+• Acceso directo a la aplicación de Beneficios BCP.
+
+##### **Comentarios**
+
+![bcp](assets/images/bcp1.png)
+![bcp](assets/images/bcp2.png)
+![bcp](assets/images/bcp3.png)
+
+#### **Banca Móvil BBVA:**
+
+- Compartir el número de cuentas por whatsapp, por correo o redes sociales.
+
+- Pagar recibos de servicios e instituciones
+
+- Bloquear tu tarjeta inmediatamente
+
+- Configurar tus tarjetas para controlar tu disposición de efectivo, compras por internet, en el exterior.
+
+- Enviar dinero a través de Efectivo Móvil a un número propio o al de terceros
+
+##### **Comentarios**
+
+![bbva](assets/images/bbva1.png)
+![bbva](assets/images/bbva2.png)
+![bbva](assets/images/bbva3.png)
+
+#### **Interbank APP**
+
+-	Personalizar tus cuentas y configurar tus operaciones frecuentes
+
+-	Descargar el Estado de Cuenta de tus tarjetas de crédito
+
+-	Recargar celulares Movistar, Claro y Entel
+
+-	Recibir constancias automáticas de tus operaciones
+
+-	Encontrar “Preguntas frecuentes” que te ayudarán a usar la aplicación de la mejor manera
+
+##### **Comentarios**
+
+![itb](assets/images/itb1.png)
+![itb](assets/images/itb2.png)
+![itb](assets/images/itb3.png)
+
+Fuente: Google Play.
 
 #### **Scotiabank**
 ##### **Opiniones de los usuarios**
@@ -208,13 +255,13 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 #### **Inferencias**
 
 ### **Encuestas presenciales y online**
-#### **Encuesta presencial** (ADA)
+#### **Encuesta presencial**
 ##### **Cuestionario**
 ##### **Gráficos**
-#### **Encuesta online** (YAS)
+#### **Encuesta online**
 ##### **Cuestionario**
 ##### **Resultados**
-#### **Inferencias** (ADA)
+#### **Inferencias**
 ### **Entrevistas a expertos - Principales insights** (ADA)
 
 #### **Ayrton Checa Ruiz (Asistente de Operaciones - BCP)**
@@ -228,7 +275,7 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 - Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
 
 ## **Síntesis y definición**
-### **Affinity Mapping** YAS
+### **Affinity Mapping**
 - Para encontrar los principales procesos que se realizan y los principales motivos de insatisfaccion de la banca tradicional
 
 #### **Temas encontrados**
@@ -238,18 +285,18 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 
 ### **User persona** 
 
-#### **User persona primary** ADA
-#### **User persona secondary** YAS
+#### **User persona primary**
+#### **User persona secondary**
 
-### **CUSTOMER JOURNEY MAP - PROCESOS CRITICOS** YAS
+### **CUSTOMER JOURNEY MAP - PROCESOS CRITICOS**
 - A
 - B
 - C
 
-### **Problem Statements** YAS
+### **Problem Statements**
 
 ## **Ideación** 
-### **Feature list** ADA
+### **Feature list**
 
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
