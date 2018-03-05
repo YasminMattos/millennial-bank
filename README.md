@@ -158,7 +158,7 @@ Son los puntos a tratar dentro de la agenda.
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
 
 2. Data Analytics
-- Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
+- Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital y la percepción de sus clientes. 
 
 3. Encuestas presenciales y online.
 - Se realizaran encuestas presenciales y online a los usuarios y potenciales usuarios que conformen nuestro target para conocer de primera mano la experiencia que poseen.
@@ -182,15 +182,15 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 ![](assets/images/bench-tres.png)
 
 ### **Data Analytics**
-#### **Banco de Crédito del Perú - BCP**
+#### **Banco de Crédito del Perú - BCP** YAS
 ##### **Opiniones de los usuarios**
 ##### **Sobre su app/web**
 
-#### **Banco Continental - BBVA**
+#### **Banco Continental - BBVA** YAS
 ##### **Opiniones de los usuarios**
 ##### **Sobre su app/web**
 
-#### **Interbank**
+#### **Interbank** YAS
 ##### **Opiniones de los usuarios**
 ##### **Sobre su app/web**
 
@@ -205,12 +205,27 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 ##### **Opiniones de los usuarios**
 ![Mibanco](assets/images/mibanco1.PNG)
 
+#### **Inferencias**
 
 ### **Encuestas presenciales y online**
+#### **Encuesta presencial** (ADA)
+##### **Cuestionario**
+##### **Gráficos**
+#### **Encuesta online** (YAS)
+##### **Cuestionario**
+##### **Resultados**
+#### **Inferencias** (ADA)
+### **Entrevistas a expertos - Principales insights** (ADA)
 
-### **Entrevistas a expertos**
+#### **Ayrton Checa Ruiz (Asistente de Operaciones - BCP)**
 
-### **Observación participativa**
+#### **Leonardo Ballon Urbano (Analista de Inteligencia Comercial - Banco Financiero del Perú)**
+
+#### **Anggel Carlos Usaqui (Cajera - BBVA)**
+
+
+### **Observación participativa** 
+- Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
 
 
 
