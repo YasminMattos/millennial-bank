@@ -4,7 +4,8 @@
 - [Idea de Negocio](#idea-de-negocio)
 - [Público objetivo](#público-objetivo)
 - [Business Model Canvas](#business-model-canvas)
-
+- [Stakeholders del proyecto](#stakeholders-del-proyecto)
+- [Pautas para el KICK-OFF MEETING](#pautas para-el-KICK-OFF-MEETING)
 ## Idea de Negocio:
 
 ### Banca 100% digital.
@@ -51,7 +52,7 @@ de Google o Amazon.
 Fuente (http://www.fisagrp.com/pdf/fisa-millenial-report.pdf)
 
 
-## **Skateholders del proyecto**
+## **Stakeholders del proyecto**
 
 ### Grupo de interés:
 
