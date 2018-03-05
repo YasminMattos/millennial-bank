@@ -153,20 +153,42 @@ Son los puntos a tratar dentro de la agenda.
 1. Conocer los gustos y preferencias de los millennials respecto a la banca tradicional y su comportamiento en el medio digital.
 
 ### **Técnicas a emplear**
-1. Entrevistas con expertos.
-- Se entrevistará a los principales stakeholders involucrados en el kick off.
-2. Encuestas presenciales y online.
-- Se realizaran encuestas presenciales y online a los usuarios y potenciales usuarios que conformen nuestro target para conocer de primera mano la experiencia que poseen.
-3. Observación contextual.
-- Se visitará agencias de entidades bancarias para recolectar información acerca de la experiencia con la interacción de los productos financieros.
-4. Observación participativa.
-- Se realizará la interacción con las diferentes apps financieras para realizar benchmarking.
-5. Data Analytics
+
+1. Benchmark con las apps sugeridas (Nequi, Nubank, Simple)
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
+
+2. Data Analytics
+- Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
+
+3. Encuestas presenciales y online.
+- Se realizaran encuestas presenciales y online a los usuarios y potenciales usuarios que conformen nuestro target para conocer de primera mano la experiencia que poseen.
+
+4. Entrevistas a expertos.
+- Se entrevistará a los principales stakeholders involucrados en el kick off y personas involucradas en el mundo bancario.
+
+5. Observación participativa.
+- Se realizará la interacción con las diferentes apps financieras para realizar benchmarking.
+
+
+
 
 ## **Trello de organización**
 ![](assets/images/trello.png)
 https://trello.com/b/mt8tCKZQ/millenial-bank
+
+## **Descubrimiento e investigación**
+
+### **Benchmark con las apps sugeridas (Nequi, Nubank, Simple)**
+
+### **Data Analytics**
+
+### **Encuestas presenciales y online**
+
+### **Entrevistas a expertos**
+
+### **Observación participativa**
+
+
 
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
