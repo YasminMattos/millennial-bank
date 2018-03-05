@@ -164,7 +164,7 @@ Son los puntos a tratar dentro de la agenda.
 5. Data Analytics
 - Navegaremos en los principales canales virtuales que poseen las diversas entidades financieras para conocer su contexto digital. 
 
-## **Trello de organización **
+## **Trello de organización**
 ![](assets/images/trello.png)
 https://trello.com/b/mt8tCKZQ/millenial-bank
 
