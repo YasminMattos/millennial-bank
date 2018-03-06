@@ -261,14 +261,12 @@ Fuente: Google Play.
 ##### **Cuestionario**
 ##### **Resultados**
 
-### **Entrevistas a expertos - Principales insights** (ADA)
+### **Entrevistas a expertos - Principales insights** 
+- Se realizaron entrevistas a personas que trabajan en principales entidades bancarias con las siguientes preguntas:
+- ¿Cuáles son las operaciones que realizan las personas menores a 35 años?
+- ¿En qué procesos los usuarios manifiestan su incomodidad o mayor cantidad de quejas?
 
-#### **Ayrton Checa Ruiz (Asistente de Operaciones - BCP)**
-
-#### **Leonardo Ballon Urbano (Analista de Inteligencia Comercial - Banco Financiero del Perú)**
-
-#### **Anggel Carlos Usaqui (Cajera - BBVA)**
-
+![stakes](assets/images/stake-externos.PNG)
 
 ### **Observación participativa** 
 - Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
