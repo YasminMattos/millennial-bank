@@ -296,7 +296,7 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
 - ¿Cuáles son las operaciones que realizan las personas menores a 35 años?
 - ¿En qué procesos los usuarios manifiestan su incomodidad o mayor cantidad de quejas?
 
-![stakes](assets/images/stake-externos.PNG)
+![stakes](assets/images/stake-externos.png)
 
 ### **Observación participativa** 
 - Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
