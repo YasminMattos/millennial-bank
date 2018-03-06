@@ -298,8 +298,6 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
 
 ![stakes](assets/images/stake-externos.png)
 
-### **Observación participativa** 
-- Evaluar la interaccion de las principales operaciones que salgan de las encuestas.
 
 ## **Síntesis y definición**
 ### **Affinity Mapping**
