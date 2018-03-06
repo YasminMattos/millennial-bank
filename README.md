@@ -300,13 +300,22 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
 
 
 ## **Síntesis y definición**
-### **Affinity Mapping**
-- Para encontrar los principales procesos que se realizan y los principales motivos de insatisfaccion de la banca tradicional
+### **Affinity Map**
+
+Para encontrar los principales procesos y motivos de insatisfaccion de la banca tradicional se recabaron los insights de los usuarios tanto encuestados como entrevistados:
+
+![affinity-map](assets/images/mapa-afinidad.png)
+
+![affinity-map](assets/images/map.png)
 
 #### **Temas encontrados**
-- a
-- b
-- c
+- Quejas de la banca tradicional:
+
+Se centra en la demora de la atención debido a las colas y a la avería de cajeros.
+
+- Principales operaciones que realizan los millennials:
+
+Consulta de saldo y movimientos, pago de servicios, depósitos y transferencias interbancarias.
 
 ### **User persona** 
 
