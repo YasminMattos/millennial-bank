@@ -258,10 +258,40 @@ Fuente: Google Play.
 ##### **Cuestionario**
 ##### **Gráficos**
 #### **Encuesta online**
-##### **Cuestionario**
+
+Fecha de difusión: 02/03.
+
+Fecha de cierre: 06/03.
+
+[Link de encuestas](https://docs.google.com/forms/d/1JHypIc86KhjpXeCSAOgIeg5RXUJeRsfqIHTITTxwKpc/edit?ts=5a9d1090#responses)
+
 ##### **Resultados**
 
 ### **Entrevistas a expertos - Principales insights** 
+
+Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudiantes del género masculino de los cuales obtuvimos los siguientes insights:
+
+ - Posesión de tarjetas: 15 refieren tener tarjeta de crédito, mientras que 33 poseen tarjeta de débito.
+
+ - Servicios: el 27.8% cuenta con CTS, 25% con seguros, 19.4% con AFP, solo el 4% con algún crédito hipotecario y el 47.2% no cuenta con ningún servicio adicional.
+
+ - Principales bancos donde tiene tarjetas: BCP, BBVA, INTERBANK y SCOTIABANK.
+
+    Siendo los mismos los preferidos por los millennials.
+ 
+ - Principales operaciones bancarias: Depósitos, retiros y transferencias interbancarias.
+
+ - Experiencia en banca presencial: El 58.3% refiere que ha sido buena debido a la atención y servicios brindados.
+
+ - Posee app de bancos: BCP, BBVA, SCOTIABANK E INTERBANK.
+
+ - Experiencia en banca digital: Solo 10 personas mencionan haber tenido una buena experiencia. 
+ 
+ En cuanto a los problemas experimentados por las otras partes se encuentran: demora en la carga del app, deficiente UX y bugs.  
+
+
+### **Entrevistas a expertos - Principales insights** (ADA)
+
 - Se realizaron entrevistas a personas que trabajan en principales entidades bancarias con las siguientes preguntas:
 - ¿Cuáles son las operaciones que realizan las personas menores a 35 años?
 - ¿En qué procesos los usuarios manifiestan su incomodidad o mayor cantidad de quejas?
