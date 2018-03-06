@@ -267,7 +267,7 @@ Fecha de cierre: 06/03.
 
 ##### **Resultados**
 
-### **Entrevistas a expertos - Principales insights** 
+
 
 Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudiantes del género masculino de los cuales obtuvimos los siguientes insights:
 
