@@ -240,17 +240,13 @@ Funciones con las que cuenta:
 Fuente: Google Play.
 
 #### **Scotiabank**
-##### **Opiniones de los usuarios**
-![Scotiabank](assets/images/scotia1.PNG)
-![Scotiabank](assets/images/scotia2.PNG)
 
-##### **Sobre su app/web**
+
+##### **Comentarios**
 ![Scotiabank](assets/images/scotia3.PNG)
-#### **Mibanco**
-##### **Opiniones de los usuarios**
-![Mibanco](assets/images/mibanco1.PNG)
 
-#### **Inferencias**
+
+
 
 ### **Encuestas presenciales y online**
 #### **Encuesta presencial**
@@ -259,7 +255,7 @@ Fuente: Google Play.
 #### **Encuesta online**
 ##### **Cuestionario**
 ##### **Resultados**
-#### **Inferencias**
+
 ### **Entrevistas a expertos - Principales insights** (ADA)
 
 #### **Ayrton Checa Ruiz (Asistente de Operaciones - BCP)**
