@@ -285,16 +285,19 @@ Fuente: Google Play.
 
 #### **User persona primary**
 #### **User persona secondary**
-
+- El que hace algunas cosas que realiza el primary más otros complementos
 ### **CUSTOMER JOURNEY MAP - PROCESOS CRITICOS**
-- A
-- B
-- C
+- Transferencia
+- Retiro
+- Depósito
 
 ### **Problem Statements**
 
 ## **Ideación** 
 ### **Feature list**
+### **Priorización**
+
+## ***Testing*
 
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
