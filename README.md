@@ -331,8 +331,25 @@ Consulta de saldo y movimientos, pago de servicios, depósitos y transferencias 
 
 ## **Ideación** 
 ### **Feature list**
-### **Priorización**
+- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos.
+- Transferencias de forma rápida bancaria e interbancaria.
+- Retiro de cualquier entidad financiera asociada mediante su número de DNI.
+- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).
+- Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI.
+- Apertura de cuentas aparte de la principal con opciones de elegir.
+- Recarga de celulares Movistar, Claro, Entel y Bitel.
+- Pago de tarjetas de crédito y prestámos personales.
+- Fraccionamiento de créditos.
 
+
+### **Priorización**
+- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos. A
+- Transferencias de forma rápida bancaria e interbancaria.A
+- Retiro de cualquier entidad financiera asociada mediante su número de DNI. Y
+- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).A
+- Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI. Y
+- Recarga de celulares Movistar, Claro, Entel y Bitel.A
+- Pago de tarjetas de crédito y prestámos personales. Y
 ## ***Testing*
 
 ## **Equipo de trabajo**
