@@ -181,19 +181,19 @@ https://trello.com/b/mt8tCKZQ/millenial-bank
 
 Funciones con las que cuenta:
 
-• Consulta de saldos y movimientos de las cuentas y tarjetas de crédito
+- Consulta de saldos y movimientos de las cuentas y tarjetas de crédito
 
-• Transferencias entre cuentas y cuentas de terceros del BCP
+- Transferencias entre cuentas y cuentas de terceros del BCP
 
-• Pagar las tarjetas de crédito y de terceros del BCP
+- Pagar las tarjetas de crédito y de terceros del BCP
 
-• Recargar celulares Movistar
+- Recargar celulares Movistar
 
-• Disponer de efectivo de las tarjetas de crédito del BCP
+- Disponer de efectivo de las tarjetas de crédito del BCP
 
-• Localizar canales de atención
+- Localizar canales de atención
 
-• Acceso directo a la aplicación de Beneficios BCP.
+- Acceso directo a la aplicación de Beneficios BCP.
 
 ##### **Comentarios**
 
@@ -240,7 +240,12 @@ Funciones con las que cuenta:
 Fuente: Google Play.
 
 #### **Scotiabank**
-
+- Menú principal (Tus cuentas, efectivo móvil)
+- Menú de transferencias
+- Pagos de tarjetas y prestamos
+- Recargar celulares Movistar, Claro y Entel
+- Apertura de cuentas 
+- Pago de servicios públicos.
 
 ##### **Comentarios**
 ![Scotiabank](assets/images/scotia3.PNG)
