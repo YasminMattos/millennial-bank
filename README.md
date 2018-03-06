@@ -260,12 +260,14 @@ Fuente: Google Play.
 #### **Encuesta online**
 
 Fecha de difusión: 02/03.
+
 Fecha de cierre: 06/03.
+
 [Link de encuestas](https://docs.google.com/forms/d/1JHypIc86KhjpXeCSAOgIeg5RXUJeRsfqIHTITTxwKpc/edit?ts=5a9d1090#responses)
 
 ##### **Resultados**
 
-Fueron 36 los encuestados, millennials de 18 a 35 años, en su mayoría estudiantes del género masculino. De los cuales obtuvimos los siguientes insights:
+Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudiantes del género masculino de los cuales obtuvimos los siguientes insights:
 
  - Posesión de tarjetas: 15 refieren tener tarjeta de crédito, mientras que 33 poseen tarjeta de débito.
 
