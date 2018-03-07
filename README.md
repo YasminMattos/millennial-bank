@@ -254,9 +254,11 @@ Fuente: Google Play.
 
 
 ### **Encuestas presenciales y online**
+
 #### **Encuesta presencial**
-##### **Cuestionario**
-##### **Gráficos**
+
+##### **Resultados**
+
 #### **Encuesta online**
 
 Fecha de difusión: 02/03.
@@ -266,8 +268,6 @@ Fecha de cierre: 06/03.
 [Link de encuestas](https://docs.google.com/forms/d/1JHypIc86KhjpXeCSAOgIeg5RXUJeRsfqIHTITTxwKpc/edit?ts=5a9d1090#responses)
 
 ##### **Resultados**
-
-
 
 Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudiantes del género masculino de los cuales obtuvimos los siguientes insights:
 
@@ -300,6 +300,7 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
 
 
 ## **Síntesis y definición**
+
 ### **Affinity Map**
 
 Para encontrar los principales procesos y motivos de insatisfaccion de la banca tradicional se recabaron los insights de los usuarios tanto encuestados como entrevistados:
@@ -319,10 +320,11 @@ Consulta de saldo y movimientos, pago de servicios, depósitos y transferencias 
 
 ### **User persona** 
 
-#### **User persona primary**
-#### **User persona secondary**
-- El que hace algunas cosas que realiza el primary más otros complementos
-### **CUSTOMER JOURNEY MAP - PROCESOS CRITICOS**
+Basándonos en nuestro target de millennials encuestados y entrevistados, se elaboró el siguiente user persona:
+
+![User-persona](assets/images/user-person.png) 
+
+### **Customes Journey Map - PROCESOS CRÍTICOS**
 - Transferencia
 - Retiro
 - Depósito
