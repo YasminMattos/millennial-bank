@@ -324,7 +324,7 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 
 ![User-persona](assets/images/user-person.png) 
 
-### **Customes Journey Map - PROCESOS CRÍTICOS**
+### **Customer Journey Map - PROCESOS CRÍTICOS**
 - Transferencia
 - Retiro
 - Depósito
