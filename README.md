@@ -350,7 +350,7 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 
 ### Tecnología a usar:
 	
-#### App Nativa / Mobile first.
+#### App Nativa / Mobile only.
 
 Nuestro subproducto del Banco del País es una aplicación nativa, desarrollada tanto para iOS como para Android.
 
