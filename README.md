@@ -25,7 +25,6 @@ corriente, cuáles son sus gastos, cuáles son los costos de sus productos,
 qué productos poseen actualmente y por cuánto tiempo. 
 - Constante comunicación respecto a fechas y obligaciones de pago.
 
-
 ## Público objetivo:
 
 •	Millenials.
@@ -59,7 +58,6 @@ de Google o Amazon.
 - 23% Cita que la falta de un app móvil es razón suficiente para no interactuar con un banco. 
 
 Fuente (http://www.fisagrp.com/pdf/fisa-millenial-report.pdf)
-
 
 ## **Stakeholders del proyecto**
 
@@ -250,16 +248,13 @@ Fuente: Google Play.
 ##### **Comentarios**
 ![Scotiabank](assets/images/scotia3.PNG)
 
+### **Entrevistas y Encuestas a millennials**
 
-
-
-### **Encuestas presenciales y online**
-
-#### **Encuesta presencial**
+#### **Entrevistas**
 
 ##### **Resultados**
 
-#### **Encuesta online**
+#### **Encuestas online**
 
 Fecha de difusión: 02/03.
 
@@ -289,7 +284,6 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
  
  En cuanto a los problemas experimentados por las otras partes se encuentran: demora en la carga del app, deficiente UX y bugs.  
 
-
 ### **Entrevistas a expertos - Principales insights** (ADA)
 
 - Se realizaron entrevistas a personas que trabajan en principales entidades bancarias con las siguientes preguntas:
@@ -297,7 +291,6 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
 - ¿En qué procesos los usuarios manifiestan su incomodidad o mayor cantidad de quejas?
 
 ![stakes](assets/images/stake-externos.png)
-
 
 ## **Síntesis y definición**
 
@@ -332,6 +325,7 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 ### **Problem Statements**
 
 ## **Ideación** 
+
 ### **Feature list**
 - Consulta de saldos y movimientos entre fechas de más recientes a más antiguos.
 - Transferencias de forma rápida bancaria e interbancaria.
@@ -343,15 +337,15 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 - Pago de tarjetas de crédito y prestámos personales.
 - Fraccionamiento de créditos.
 
-
 ### **Priorización**
-- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos. A
-- Transferencias de forma rápida bancaria e interbancaria.A
-- Retiro de cualquier entidad financiera asociada mediante su número de DNI. Y
-- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).A
-- Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI. Y
-- Recarga de celulares Movistar, Claro, Entel y Bitel.A
-- Pago de tarjetas de crédito y prestámos personales. Y
+- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos. 
+- Transferencias de forma rápida bancaria e interbancaria.
+- Retiro de cualquier entidad financiera asociada mediante su número de DNI. 
+- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).
+- Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI. 
+- Recarga de celulares Movistar, Claro, Entel y Bitel.
+- Pago de tarjetas de crédito y prestámos personales. 
+
 ## ***Testing*
 
 ## **Equipo de trabajo**
