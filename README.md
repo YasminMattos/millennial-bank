@@ -348,6 +348,18 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 
 ## ***Testing*
 
+### Tecnología a usar:
+	
+#### App Nativa / Mobile first.
+
+Nuestro subproducto del Banco del País es una aplicación nativa, desarrollada tanto para iOS como para Android.
+
+La elección fue hecha a raíz de que la mayoría de nuestros usuarios (millennials) usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar operaciones bancarias y también porque se quiere aprovechar ciertas capacidades tanto del dispositivo como del sistema operativo, por ejemplo:
+
+- Biometría: Opción de la huella dactilar para el _ingreso al aplicativo_, puesto que esto supone una mayor seguridad para el usuario.
+
+- GPS: Permite el acceso a la ubicación del usuario en la opción de _Retiro express_.
+
 ## **Equipo de trabajo**
 - [Ada Yajahuanca](https://github.com/adayc) 
 - [Yasmin Mattos](https://github.com/YasminMattos)
