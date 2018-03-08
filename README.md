@@ -327,24 +327,25 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 ## **Ideación** 
 
 ### **Feature list**
-- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos.
+- Consulta de saldos y movimientos en orden cronológico inverso.
 - Transferencias de forma rápida bancaria e interbancaria.
 - Retiro de cualquier entidad financiera asociada mediante su número de DNI.
-- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).
+- Pagos de servicios e insituciones (Agua, luz, teléfono, celular, Netflix, universidad, etc).
 - Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI.
-- Apertura de cuentas aparte de la principal con opciones de elegir.
+- Apertura de cuentas.
 - Recarga de celulares Movistar, Claro, Entel y Bitel.
-- Pago de tarjetas de crédito y prestámos personales.
+- Pago de tarjetas de crédito.
 - Fraccionamiento de créditos.
 
 ### **Priorización**
-- Consulta de saldos y movimientos entre fechas de más recientes a más antiguos. 
+
+- Consulta de saldos y movimientos en orden cronológico inverso. 
 - Transferencias de forma rápida bancaria e interbancaria.
-- Retiro de cualquier entidad financiera asociada mediante su número de DNI. 
-- Pagos de servicios e insituciones diversos mediante tu DNI (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).
-- Visualización de estados de cuenta, saldos y movimientos de otras entidades asociadas con tu DNI. 
+- Retiro de entidades financieras asociadas solo con DNI. 
+- Pagos de servicios e insituciones (Agua, Luz, Telefono, Celular, Netflix, universidad, etc).
+- Bloqueo y desbloqueo de tarjetas.
 - Recarga de celulares Movistar, Claro, Entel y Bitel.
-- Pago de tarjetas de crédito y prestámos personales. 
+- Pago de tarjetas de crédito. 
 
 ## ***Testing*
 
