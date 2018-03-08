@@ -251,6 +251,7 @@ Fuente: Google Play.
 ### **Entrevistas y Encuestas a millennials**
 
 #### **Entrevistas**
+- Se realizaron entrevistas a clientes bancarizados, estas se encuentran en : https://drive.google.com/file/d/1s9-xqBa2Cxdkrxifru_pWQ-Y4vvIF6QC/view?usp=sharing
 
 ##### **Resultados**
 
