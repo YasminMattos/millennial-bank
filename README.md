@@ -259,8 +259,6 @@ Fuente: Google Play.
 ##### **Resultados**
 - Principales operaciones bancarias: Depósitos, retiros y transferencias.
 
-
-
 - Los retiros de dinero son realizado en su mayoría al menos 2 veces por semana. 
 
 - Falta de seguridad en las apps al momento de acceder.
@@ -331,13 +329,12 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 
 ### **Customer Journey Map - PROCESOS CRÍTICOS**
 
-- Transferencia
-
-- Retiro
+- Retiro sin la app
+![customer-journey](assets/images/critico.png)
+- Retiro con la app
 
     ![customer-journey](assets/images/journey-retiro.png)
 
-- Depósito
 
 ### **Problem Statements**
 
