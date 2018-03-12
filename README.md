@@ -353,7 +353,7 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 - Recarga de celulares Movistar, Claro, Entel y Bitel.
 - Pago de tarjetas de crédito. 
 
-## ** Prototyping**
+## **Prototyping**
 
 Primer prototipo de alta fidelidad:
 
