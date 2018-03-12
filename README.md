@@ -18,12 +18,15 @@
 ## Idea de Negocio:
 
 ### Banca 100% digital.
-- Manejar diferentes productos financieros  de diferentes entidades en un solo portal.
+
+Banca digital para millenials con los productos que tú pediste. 
+
+- Manejar diferentes productos financieros en un solo portal.
 -  Capacidad de realizar transferencias interbancarias con rapidez entre entidades asociadas al app.
-- Transparencia y autenticidad sobre su cuenta
-corriente, cuáles son sus gastos, cuáles son los costos de sus productos,
-qué productos poseen actualmente y por cuánto tiempo. 
-- Constante comunicación respecto a fechas y obligaciones de pago.
+- Retiro Express, servicio de retiro en cualquier entidad asociada solo con el DNI.
+- Facilidad de pagos de servicios solo con el DNI.
+
+
 
 ## Público objetivo:
 
