@@ -257,6 +257,14 @@ Fuente: Google Play.
 - Se realizaron entrevistas a clientes bancarizados, estas se encuentran en : https://drive.google.com/file/d/1s9-xqBa2Cxdkrxifru_pWQ-Y4vvIF6QC/view?usp=sharing
 
 ##### **Resultados**
+- Principales operaciones bancarias: Depósitos, retiros y transferencias.
+
+
+
+- Los retiros de dinero son realizado en su mayoría al menos 2 veces por semana. 
+
+- Falta de seguridad en las apps al momento de acceder.
+
 
 #### **Encuestas online**
 
