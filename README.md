@@ -379,6 +379,10 @@ Prototipo mejorado:
 ## **Testing**
 
 El testing fue realizado con 6 participantes, realizamos una iteración, y los flujos modificados fueron: Pago de tarjetas BDP, Bloqueo y desbloqueo.
+1. Adición de huella biómetrica para el acceso.
+2. Cambio de pago de tarjeta, número de cuenta a celular. Se cancelarán los pagos de las tarjetas asociadas a ese número.
+3. Añadir de una opción a 3 opciones de lugar de retiro de dinero.
+4. Cambio de colores a la app de morado a azul.
 
 ### Tecnología a usar:
 	
