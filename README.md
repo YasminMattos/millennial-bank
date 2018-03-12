@@ -319,8 +319,13 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 ![User-persona](assets/images/user-person.png) 
 
 ### **Customer Journey Map - PROCESOS CRÍTICOS**
+
 - Transferencia
+
 - Retiro
+
+    ![customer-journey](assets/images/journey-retiro.png)
+
 - Depósito
 
 ### **Problem Statements**
@@ -348,7 +353,19 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 - Recarga de celulares Movistar, Claro, Entel y Bitel.
 - Pago de tarjetas de crédito. 
 
-## ***Testing*
+## ** Prototyping**
+
+Primer prototipo de alta fidelidad:
+
+[Millennial Bank APP](https://marvelapp.com/310ij90/screen/39411724)
+
+Prototipo mejorado:
+
+[Sape! App](https://marvelapp.com/c52jb9j/screen/39527728)
+
+## **Testing**
+
+El testing fue realizado con 6 participantes, realizamos una iteración, y los flujos modificados fueron: Pago de tarjetas BDP, Bloqueo y desbloqueo.
 
 ### Tecnología a usar:
 	
