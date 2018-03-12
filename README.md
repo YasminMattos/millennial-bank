@@ -330,6 +330,11 @@ Basándonos en nuestro target de millennials encuestados y entrevistados, se ela
 
 ### **Problem Statements**
 
+1. Frank **necesita** retirar dinero en cualquier lugar  **para** solventar imprevistos.
+2. Frank **necesita** retirar dinero solo con el DNI **para** evitar portar tarjetas.
+3. Frank **necesita** pagar sus servicios de manera fácil y rápida **para** ahorrar tiempo.
+4. Frank **necesita** transferir dinero en cualquier momento del día **para** cancelar los préstamos de sus amigos.
+
 ## **Ideación** 
 
 ### **Feature list**
