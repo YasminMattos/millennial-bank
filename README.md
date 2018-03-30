@@ -1,5 +1,13 @@
-# Millennial Bank
--------------------
+# Sape! App
+---
+Sape es una aplicación de banca digital dirigida a Millennials.
+
+![image](https://user-images.githubusercontent.com/32296818/38151668-cced1c0a-3429-11e8-9292-3828071adaa6.png)
+
+## Elaborado para
+
+[Laboratoria](http://convocatoria.laboratoria.la/)
+
 ## Tabla de contenido
 - [Idea de Negocio](#idea-de-negocio)
 - [Público objetivo](#público-objetivo)
@@ -30,7 +38,7 @@ Banca digital para millenials con los productos que tú pediste.
 
 ## Público objetivo:
 
-•	Millenials.
+•	Millennials.
     
 ### ¿Cuál es su perfil? ####
 
