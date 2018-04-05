@@ -7,7 +7,7 @@ Sape App es una aplicación de banca digital dirigida a Millennials que buscan r
 [Laboratoria](http://laboratoria.la)
 
 ## Objetivo:
-Diseñar una App para millennials que contribuya al proceso de transformación digital que afronta el Banco del País.
+Diseñar una App para millennials que contribuya en el proceso de transformación digital que afronta el Banco del País.
 
 ## Idea de Negocio:
 
