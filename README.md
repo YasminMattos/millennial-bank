@@ -1,5 +1,5 @@
-# Sape! App
-Sape! App es una aplicación de banca digital dirigida a Millennials que buscan rapidez, simplicidad y estilo.
+# Sape App
+Sape App es una aplicación de banca digital dirigida a Millennials que buscan rapidez, simplicidad y estilo.
 
 ![image](https://user-images.githubusercontent.com/32296818/38151668-cced1c0a-3429-11e8-9292-3828071adaa6.png)
 
