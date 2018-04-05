@@ -6,21 +6,6 @@ Sape App es una aplicación de banca digital dirigida a Millennials que buscan r
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
-## Tabla de contenido
-- [Idea de Negocio](#idea-de-negocio)
-- [Público objetivo](#público-objetivo)
-
-- [Stakeholders del proyecto](#stakeholders-del-proyecto)
-
-- [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
-
-- [Business Model Canvas](#business-model-canvas)
-
-- [Propuesta de investigación](#propuesta-de-investigación)
-
-- [Trello de organización](#trello-de-organización)
-- [Equipo de trabajo](#equipo-de-trabajo)
-
 ## Idea de Negocio:
 
 ### Banca 100% digital.
@@ -33,12 +18,11 @@ Banca digital para millenials con los productos que tú pediste.
 - Facilidad de pagos de servicios solo con el DNI.
 
 
-
 ## Público objetivo:
 
 •	Millennials.
     
-### ¿Cuál es su perfil? ####
+### ¿Cuál es su perfil?
 
 Personas de 18 a 34 años.
 
@@ -54,7 +38,7 @@ La siguiente infografía nos da más alcances sobre su comportamiento...
 
 ![](assets/images/info.jpg)
 
-### ¿Qué piensan los millennials de los bancos? ####
+### ¿Qué piensan los millennials de los bancos?
 
 - El 40% de los millennials nunca ha pisado una sucursal bancaria y  la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. (https://gestion.pe/economia/empresas/millennials-nuevo-dolor-cabeza-banca-137027)
 
@@ -300,7 +284,7 @@ Fueron 36 los encuestados. Millennials de 18 a 35 años, en su mayoría estudian
  
  En cuanto a los problemas experimentados por las otras partes se encuentran: demora en la carga del app, deficiente UX y bugs.  
 
-### **Entrevistas a expertos - Principales insights** (ADA)
+### **Entrevistas a expertos - Principales insights**
 
 - Se realizaron entrevistas a personas que trabajan en principales entidades bancarias con las siguientes preguntas:
 - ¿Cuáles son las operaciones que realizan las personas menores a 35 años?
